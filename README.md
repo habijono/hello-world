@@ -2,3 +2,13 @@
 this is the first github project
 fdsafdasfadsfdasfdsafd
 fdsaf
+fdsafdsa
+fdsa
+fdas
+fdas
+fds
+
+
+%fs
+
+ls /mnt/Thinker/
