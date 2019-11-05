@@ -7,3 +7,8 @@ fdsa
 fdas
 fdas
 fds
+
+
+%fs
+
+ls /mnt/Thinker/
